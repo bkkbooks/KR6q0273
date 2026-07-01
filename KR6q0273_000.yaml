@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0273/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龐居士語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1336.xml
+    old_id: X69n1336
+hash: sha256:356b58c77fba4d7793fb1bef0e0f127768f752d7354cc92b3ef204eecd6ab1af

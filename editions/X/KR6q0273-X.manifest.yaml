@@ -1,0 +1,172 @@
+canonical_identifier: bkk:krp/KR6q0273/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0273/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 龐居士語錄
+  identifiers:
+    krp: KR6q0273
+    cbeta: X69n1336
+    cbeta_old_id: X69n1336
+    authorityid: CA0002378
+    json_key: X1336
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1336.xml
+    old_id: X69n1336
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0273_000-X.yaml, hash: 'sha256:356b58c77fba4d7793fb1bef0e0f127768f752d7354cc92b3ef204eecd6ab1af'}
+  - {seq: 1, filename: KR6q0273_001-X.yaml, hash: 'sha256:88bfbdf7288d0f2fda3b88db3a8988c7ed06276d3fc8e186684407d552de8545'}
+  - {seq: 2, filename: KR6q0273_002-X.yaml, hash: 'sha256:e98e0646575506bbc64d307ae65d366fb133e6661ce71aad515fc30cc12ccb46'}
+  - {seq: 3, filename: KR6q0273_003-X.yaml, hash: 'sha256:e6593e5d22f99c0dfe5fe08b0e19a6ab9f1fcb01414e3ea9ba8df7ee5d3903f2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0273_000-X.markers.yaml, hash: 'sha256:2b67311e0228501a41aa9cd23eb54b69ee8ed08055356329c41d01fd5c5e91d4'}
+  - {seq: 1, role: markers, filename: assets/KR6q0273_001-X.markers.yaml, hash: 'sha256:64327b11e62323dc654de415df615aaf4c4673576978e917edf406aa58dab48e'}
+  - {seq: 2, role: markers, filename: assets/KR6q0273_002-X.markers.yaml, hash: 'sha256:e5150e067767238fca77f9676803d6163301ba78708502db6489db1bab60d164'}
+  - {seq: 3, role: markers, filename: assets/KR6q0273_003-X.markers.yaml, hash: 'sha256:e39e2fb34779ffc2d973dae953fdc37fdfb7f9235738fef1410aff136d5cc49f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0273_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4671
+  label: 龐居士語錄卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0273_X_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0273_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 4878
+  label: 龐居士詩卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0273_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0273_X_002-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 五言
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0273_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 4968
+  label: 龐居士詩卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0273_X_003-mulu-1
+    span:
+    - body
+    - 2779
+    - 2779
+  label: 七言
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0273_X_003-mulu-2
+    span:
+    - body
+    - 3831
+    - 3831
+  label: 雜句
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0273_X_003-mulu-3
+    span:
+    - body
+    - 4685
+    - 4685
+  label: 歷代讚文(并諸方拈古附)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0273_X_003-mulu-4
+    span:
+    - body
+    - 4695
+    - 4695
+  label: 大丞相張天覺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0273_X_003-mulu-5
+    span:
+    - body
+    - 4729
+    - 4729
+  label: 徑山佛日大慧禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0273_X_003-mulu-6
+    span:
+    - body
+    - 4791
+    - 4791
+  label: 東林珪老
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0273_X_003-mulu-7
+    span:
+    - body
+    - 4815
+    - 4815
+  label: 雲門杲公禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0273_X_003-mulu-8
+    span:
+    - body
+    - 4841
+    - 4841
+  label: 白雲端和尚
+  type: mulu
+  level: 1
+hash: sha256:b472a09ad65f2b831e108c2434f220fe2ccf9988d861db018c3d6efdf7560e39
