@@ -22,13 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0273_000.yaml, hash: 'sha256:356b58c77fba4d7793fb1bef0e0f127768f752d7354cc92b3ef204eecd6ab1af'}
-  - {seq: 1, filename: KR6q0273_001.yaml, hash: 'sha256:3c7afa6b5738650efc57bdb7fb478d46e56348ec986b157c63c600f86182e013'}
-  - {seq: 2, filename: KR6q0273_002.yaml, hash: 'sha256:2fa1ef6231425ee292a6303f23598efd9612c964c44ba60d48a3cb0e46b0f0f0'}
-  - {seq: 3, filename: KR6q0273_003.yaml, hash: 'sha256:efb3f14d035b441e9415b0495bb16692d6151b6820c090f8c62bd7830e0fbddc'}
+  - {seq: 1, filename: KR6q0273_001.yaml, hash: 'sha256:88bfbdf7288d0f2fda3b88db3a8988c7ed06276d3fc8e186684407d552de8545'}
+  - {seq: 2, filename: KR6q0273_002.yaml, hash: 'sha256:e98e0646575506bbc64d307ae65d366fb133e6661ce71aad515fc30cc12ccb46'}
+  - {seq: 3, filename: KR6q0273_003.yaml, hash: 'sha256:e6593e5d22f99c0dfe5fe08b0e19a6ab9f1fcb01414e3ea9ba8df7ee5d3903f2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0273_001.markers.yaml, hash: 'sha256:73f97aca82f43109ee5706c0879776bb14cf7e75593fce87bbd1135219c59f75'}
-  - {seq: 2, role: markers, filename: assets/KR6q0273_002.markers.yaml, hash: 'sha256:bab8c892399f1455eed37bfb4b5f15582c30e3ff985ffd4f990e21666e69fe93'}
-  - {seq: 3, role: markers, filename: assets/KR6q0273_003.markers.yaml, hash: 'sha256:868a4bfbc01c80ccaa67dfb22af93fecc5d63ef626720cf83b16e7b8c40a6db8'}
+  - {seq: 0, role: markers, filename: assets/KR6q0273_000.markers.yaml, hash: 'sha256:f1205698874797ce4b79f237828ccc58eb366639d172f63e22497593b3f3639d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0273_001.markers.yaml, hash: 'sha256:1b2968ae1009255269f4a8dd2e313a187fbf31e821ae1d48dd5f9fa230badd4d'}
+  - {seq: 2, role: markers, filename: assets/KR6q0273_002.markers.yaml, hash: 'sha256:a9d1111a8b5fbb51c8cdee43cbd3f2aa204e2f5cb98f0c04bfa21d5c4202cc9c'}
+  - {seq: 3, role: markers, filename: assets/KR6q0273_003.markers.yaml, hash: 'sha256:560d1e86816fd304501259577bf966a17e8622c2842b1c525c06fc76249a5803'}
 table_of_contents:
 - ref:
     seq: 1
@@ -170,7 +171,4 @@ table_of_contents:
   label: 白雲端和尚
   type: mulu
   level: 1
-hash: sha256:91ecff84eb710de3d1daaadab4862adba533ba6e8aa1dcf7f48681c781d412ec
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:40af2ab9c872d9890f20fe4623f5ad18795177f0c925ba79e323beb7c6627c2a
